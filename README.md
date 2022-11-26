@@ -1,12 +1,8 @@
 
+IF RUN THE PROJECT .. INSTALL NODE PAKAGE MANAGER........
 
-MOVIES LIST _ = API-TMDB
-
-RUN THIS APP- OPEN CMD THEN GO TO PROJRCT FOLDER START SERVER
-
-START-npm run server
-****IMPORTAN>>>>!!!!****
-YOU MUST BE INSTALL >>> node js 
+##############
+******************************************************************************************************************************************************************
 
 
 
